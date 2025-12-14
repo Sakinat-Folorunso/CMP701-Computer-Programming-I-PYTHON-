@@ -27,63 +27,63 @@ https://docs.google.com/document/d/1Rx1M9Ua1ZffxBT7c8lHq3zvyhOcbHtzaS-EwQMZJ0yU/
 Each practical notebook is **student-centred**, fully commented, and designed to be opened directly in **Google Colab**.
 
 ### Week 1 – Introduction to Computer Programming
-- Notebook: `CMP701_Week01_Introduction.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+- **Notebook:** `CMP701_Week01_Introduction.ipynb`  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week01_Introduction.ipynb)
 
 
 ### Week 2 – Problem Solving and Algorithm Design
-- Notebook: `CMP701_Week02_Algorithms_and_Flowcharts.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+- **Notebook:** `CMP701_Week02_Algorithms_and_Flowcharts.ipynb`  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP_Week02_Algorithms_and_Flowcharts.ipynb)
 
 
 ### Week 3 – Python Basics: Structure and Syntax
-- Notebook: `CMP701_Week03_Python_Basics.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+- **Notebook:** `CMP701_Week03_Python_Basics.ipynb`  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week03_Python_Basics.ipynb)
 
 
 ### Week 4 – Operators and Expressions
-- Notebook: `CMP701_Week04_Operators_and_Expressions.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+- **Notebook:** `CMP701_Week04_Operators_and_Expressions.ipynb`  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP_Week04_Operators_and_Expressions.ipynb)
 
 
 ### Week 5 – Decision Making (Conditional Statements)
-- Notebook: `CMP701_Week05_Decision_Making.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+- **Notebook:** `CMP701_Week05_Decision_Making.ipynb`  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week05_Decision_Making.ipynb)
 
 
 ### Week 6 – Iteration I (While Loop)
 - Notebook: `CMP701_Week06_Iteration_While.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week06_Iteration_While.ipynb)
 
 
 ### Week 7 – Iteration II (For Loop and Nested Loops)
-- Notebook: `CMP701_Week07_Iteration_For.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+- **Notebook:** `CMP701_Week07_Iteration_For.ipynb`  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week07_Iteration_For.ipynb)
 
 
 ### Week 8 – Data Structures I (Lists and Tuples)
-- Notebook: `CMP701_Week08_Lists_and_Tuples.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+- **Notebook:** `CMP701_Week08_Lists_and_Tuples.ipynb`  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week08_Lists_and_Tuples.ipynb)
 
 
 ### Week 9 – Data Structures II (Dictionaries and Sets)
-- Notebook: `CMP701_Week09_Dictionaries_and_Sets.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+- **Notebook:** `CMP701_Week09_Dictionaries_and_Sets.ipynb`  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week09_Dictionaries_and_Sets.ipynb)
 
 
 ### Week 10 – Functions and Modular Programming
-- Notebook: `CMP701_Week10_Functions_and_Modular_Programming.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+- **Notebook:** `CMP701_Week10_Functions_and_Modular_Programming.ipynb`  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week10_Functions_and_Modular_Programming.ipynb)
 
 
 ### Week 11 – Strings and Text Processing
-- Notebook: `CMP701_Week11_Strings_and_Text_Processing.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+- **Notebook:** `CMP701_Week11_Strings_and_Text_Processing.ipynb`  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week11_Strings_and_Text_Processing.ipynb)
 
 
 ### Week 12 – File Handling and Persistent Storage
-- Notebook: `CMP701_Week12_File_Handling.ipynb`
-  
+- **Notebook:** `CMP701_Week12_File_Handling.ipynb`
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week12_File_Handling.ipynb)
 
 ### Mini Project – Student Workbook (Google Colab)
 - **Notebook:** `CMP701_Mini_Project_Student_Notebook.ipynb`
