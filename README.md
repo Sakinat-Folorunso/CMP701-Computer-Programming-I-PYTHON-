@@ -60,6 +60,8 @@ Each practical notebook is **student-centred**, fully commented, and designed to
 - **Notebook:** `CMP701_Week07_Iteration_For.ipynb`  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week07_Iteration_For.ipynb)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week07_Iteration_For.ipynb)
+
 
 ### Week 8 – Data Structures I (Lists and Tuples)
 - **Notebook:** `CMP701_Week08_Lists_and_Tuples.ipynb`  
