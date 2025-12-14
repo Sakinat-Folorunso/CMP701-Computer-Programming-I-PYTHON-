@@ -33,7 +33,7 @@ Each practical notebook is **student-centred**, fully commented, and designed to
 
 ### Week 2 – Problem Solving and Algorithm Design
 - **Notebook:** `CMP701_Week02_Algorithms_and_Flowcharts.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP_Week02_Algorithms_and_Flowcharts.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week02_Algorithms_and_Flowcharts.ipynb)
 
 
 ### Week 3 – Python Basics: Structure and Syntax
