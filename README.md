@@ -18,14 +18,13 @@ Department of Computer Sciences
 Olabisi Onabanjo University, Ago-Iwoye  
 📧 sakinat.folorunso@oouagoiwoye.edu.ng  
 
-## 📄 Lecture Notes (Google Docs)
 
+## 📄 Lecture Notes (Google Docs)
 https://docs.google.com/document/d/1Rx1M9Ua1ZffxBT7c8lHq3zvyhOcbHtzaS-EwQMZJ0yU/edit?usp=sharing
 
-## 🧪 Practical Notebooks (Google Colab)
 
-Each practical notebook is **student-centred**, fully commented,  
-and designed to be opened directly in **Google Colab**.
+## 🧪 Practical Notebooks (Google Colab)
+Each practical notebook is **student-centred**, fully commented, and designed to be opened directly in **Google Colab**.
 
 ### Week 1 – Introduction to Computer Programming
 - Notebook: `CMP701_Week01_Introduction.ipynb`  
@@ -92,7 +91,7 @@ and designed to be opened directly in **Google Colab**.
 
 - **Mini Project – Student Workbook (Google Colab)**  
   `CMP701_Mini_Project_Student_Notebook.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://github.com/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Mini_Project_Student_Notebook.ipynb
 
 *Students must make a copy to their Google Drive before working.*
 
