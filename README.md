@@ -1,17 +1,6 @@
 # CMP701 – Computer Programming I (Python)
 
-Lecture notes, practical Google Colab notebooks, and mini-projects for  
-**CMP701 – Computer Programming I**  
-PGD Computer Science, Olabisi Onabanjo University (OOU)
-
-## 📘 Course Information
-
-- **Programme:** PGD Computer Science  
-- **Course Code:** CMP701  
-- **Course Title:** Computer Programming I  
-- **Platform:** Python (Google Colab)  
-
-**Lecturer:**  
+**Course Lecturer:**  
 **Dr. Sakinat Folorunso**  
 Associate Professor of AI Systems  
 Department of Computer Sciences  
@@ -19,8 +8,10 @@ Olabisi Onabanjo University, Ago-Iwoye
 📧 sakinat.folorunso@oouagoiwoye.edu.ng  
 
 
+
 ## 📄 Lecture Notes (Google Docs)
 https://docs.google.com/document/d/1Rx1M9Ua1ZffxBT7c8lHq3zvyhOcbHtzaS-EwQMZJ0yU/edit?usp=sharing
+
 
 
 ## 🧪 Practical Notebooks (Google Colab)
