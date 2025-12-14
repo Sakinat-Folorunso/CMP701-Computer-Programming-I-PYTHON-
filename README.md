@@ -43,7 +43,7 @@ Each practical notebook is **student-centred**, fully commented, and designed to
 
 ### Week 4 – Operators and Expressions
 - **Notebook:** `CMP701_Week04_Operators_and_Expressions.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP_Week04_Operators_and_Expressions.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Week04_Operators_and_Expressions.ipynb)
 
 
 ### Week 5 – Decision Making (Conditional Statements)
