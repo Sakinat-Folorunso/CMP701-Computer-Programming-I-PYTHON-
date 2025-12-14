@@ -83,30 +83,12 @@ Each practical notebook is **student-centred**, fully commented, and designed to
 
 ### Week 12 – File Handling and Persistent Storage
 - Notebook: `CMP701_Week12_File_Handling.ipynb`
-
-### 🧩 Mini Project – Student Workbook (Google Colab)
-
-- **Notebook:** `CMP701_Mini_Project_Student_Notebook.ipynb`
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Mini_Project_Student_Notebook.ipynb
-)
-
-📌 *Students must click **Open in Colab** and then select*  
-**File → Save a copy in Drive** *before working.*
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-
-
-## 🧩 Mini Project
-
-- **Mini Project – Student Workbook (Google Colab)**
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Mini_Project_Student_Notebook.ipynb)
   
-  `CMP701_Mini_Project_Student_Notebook.ipynb`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://github.com/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Mini_Project_Student_Notebook.ipynb
 
-*Students must make a copy to their Google Drive before working.*
+### Mini Project – Student Workbook (Google Colab)
+- **Notebook:** `CMP701_Mini_Project_Student_Notebook.ipynb`
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Mini_Project_Student_Notebook.ipynb)
+
 
 
 ## ⚠️ Academic Integrity
