@@ -65,7 +65,6 @@ Each practical notebook is **student-centred**, fully commented, and designed to
 - Notebook: `CMP701_Week08_Lists_and_Tuples.ipynb`  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
----
 
 ### Week 9 – Data Structures II (Dictionaries and Sets)
 - Notebook: `CMP701_Week09_Dictionaries_and_Sets.ipynb`  
@@ -89,7 +88,9 @@ Each practical notebook is **student-centred**, fully commented, and designed to
 
 ## 🧩 Mini Project
 
-- **Mini Project – Student Workbook (Google Colab)**  
+- **Mini Project – Student Workbook (Google Colab)**
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Mini_Project_Student_Notebook.ipynb)
+  
   `CMP701_Mini_Project_Student_Notebook.ipynb`  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://github.com/Sakinat-Folorunso/CMP701-Computer-Programming-I-PYTHON-/blob/main/Labs/CMP701_Mini_Project_Student_Notebook.ipynb
 
